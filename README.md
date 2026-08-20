@@ -33,18 +33,6 @@ I work on **AWS infrastructure, CI/CD automation, containerization, and cloud-na
 - 🟥 **RHCSA — Red Hat Certified System Administrator**
 - 🟥 **RHCE — Red Hat Certified Engineer**
 
----
-
-## 🚀 Projects
-
-### ☁️ Multi-Tier Web Application on AWS
-AWS three-tier architecture using **EC2, ALB, Auto Scaling, RDS, VPC, Subnets, Route Tables, and Security Groups**.
-
-### 🐳 Two-Tier Flask Application
-Containerized **Flask + MySQL** application using **Docker & Docker Compose**, with automated deployment through **Jenkins CI/CD**.
-
----
-
 ## 🌱 Open Source
 
 **GirlScript Summer of Code (GSSoC) 2026**
