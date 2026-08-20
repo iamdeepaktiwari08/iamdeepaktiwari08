@@ -1,6 +1,6 @@
 # 🙏 , I'm Deepak Tiwari
 
-### ☁️ Cloud & DevOps Engineer
+###  DevOps Engineer
 
 I work on **AWS infrastructure, CI/CD automation, containerization, and cloud-native technologies**, with hands-on experience in open-source projects and DevOps automation.
 
@@ -9,7 +9,7 @@ I work on **AWS infrastructure, CI/CD automation, containerization, and cloud-na
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,redhat,ubuntu,docker,kubernetes,terraform,jenkins,githubactions,ansible,prometheus,grafana,git,github,python,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,redhat,ubuntu,docker,kubernetes,terraform,jenkins,githubactions,ansible,prometheus,grafana,git,github,bash" />
 </p>
 
 **Cloud:** AWS (EC2, S3, VPC, IAM, ALB, Auto Scaling, RDS, CloudWatch, SNS)
